@@ -429,6 +429,7 @@ class Main { //beginning of class Main
           break;
       } 
     }
+    scnr.close();
   } //end of method main
 
   /**

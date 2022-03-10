@@ -1,5 +1,3 @@
-import java.util.*;
-
 /**
  * Representation of a generic type of entity
  */
